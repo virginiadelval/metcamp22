@@ -1,0 +1,18 @@
+.Background { 
+    position: absolute;
+    width: 1202px;
+    height: 642px;
+    left: -59px;
+    top: 32px;
+    
+    background: url(./fondo.png);
+    mix-blend-mode: normal;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    z-index: 0;
+    
+    }
